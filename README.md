@@ -1,39 +1,27 @@
-# VzenseUpgradeTool
+VzenseUpgradeTool
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+## Vzense TOF Camera Upgrade Tool For Windows System
 
-#### 软件架构
-软件架构说明
+### Supported Devices
 
+- DCAM710 Support FirmwareVersion: Firmware_DCAM710_20190904_nand_b63.img and later
+- DCAM800 
+- DCAM800LITE Support FirmwareVersion: Firmware_DCAM800LITE_20200818_nand_b10.img and later
+- DCAM305 Support FirmwareVersion: Firmware_DCAM305_20200313_nand_b42.img and later
+- DCAM500 Support FirmwareVersion: Firmware_DCAM500_20200818_nand_b10.img and later
+- DCAM550U
+- DCAM550P
 
-#### 安装教程
+### Summary Of The Guidelines
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- Choose the right base branch;
 
-#### 使用说明
+- Include sample project and documentation;
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### Resources
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- Homepage: https://www.vzense.com/
+- Order: https://www.vzense.com/
+- Docs:
+- Develop tools: https://github.com/Vzense , https://gitee.com/Vzense
+- Q&A forum: 
