@@ -11,7 +11,7 @@ VzenseUpgradeTool
 - DCAM500 Support FirmwareVersion: Firmware_DCAM500_20200818_nand_b10.img and later
 - DCAM550U
 - DCAM550P
-
+- DCAM550E
 ### Summary Of The Guidelines
 
 - Choose the right base branch;

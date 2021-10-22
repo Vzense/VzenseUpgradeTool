@@ -1,3 +1,6 @@
+Ver1.0.3
+1.support 550E
+
 Ver1.0.2
 1.update base sdk version to 3.2.3
 2.update driver version to 4.8
