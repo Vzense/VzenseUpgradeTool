@@ -1,3 +1,6 @@
+Ver1.0.4
+1.support 560/560CPRO/560CLITE, and for DCAM560, do not use Chinese path
+
 Ver1.0.3
 1.support 550E
 

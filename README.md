@@ -5,13 +5,13 @@ VzenseUpgradeTool
 ### Supported Devices
 
 - DCAM710 Support FirmwareVersion: Firmware_DCAM710_20190904_nand_b63.img and later
-- DCAM800 
-- DCAM800LITE Support FirmwareVersion: Firmware_DCAM800LITE_20200818_nand_b10.img and later
-- DCAM305 Support FirmwareVersion: Firmware_DCAM305_20200313_nand_b42.img and later
-- DCAM500 Support FirmwareVersion: Firmware_DCAM500_20200818_nand_b10.img and later
 - DCAM550U
 - DCAM550P
 - DCAM550E
+- DCAM560
+- DCAM560CPRO
+- DCAM560CLITE
+
 ### Summary Of The Guidelines
 
 - Choose the right base branch;
