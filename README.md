@@ -8,9 +8,7 @@ VzenseUpgradeTool
 - DCAM550U
 - DCAM550P
 - DCAM550E
-- DCAM560
-- DCAM560CPRO
-- DCAM560CLITE
+- DCAM560C
 
 ### Summary Of The Guidelines
 
